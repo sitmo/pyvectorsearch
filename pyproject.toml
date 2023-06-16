@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vectorstore"
+version = "0.0.0"
+description = ""
+authors = ["sitmo <thijs@sitmo.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = ">=1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
