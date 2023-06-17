@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "vectorsearch"
+name = "pyvectorsearch"
 version = "0.0.1"
 description = ""
 authors = ["sitmo <thijs@sitmo.com>"]
