@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "vectorstore"
-version = "0.0.0"
+name = "vectorsearch"
+version = "0.0.1"
 description = ""
 authors = ["sitmo <thijs@sitmo.com>"]
 license = "Apache-2.0"
